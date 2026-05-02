@@ -317,6 +317,12 @@ span.language {
    body {
     background-size: cover;
     background-position: center bottom;
+    overflow-y: scroll;
+    background-image: url("IMG_4906.png");
+               
+    background-position: center bottom;  /* 🔥 colle vers le bas */
+    background-repeat: no-repeat;
+    background-color: #000;
   }
 
 
