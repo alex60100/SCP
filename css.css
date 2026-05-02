@@ -311,7 +311,16 @@ span.language {
   width: 100%;
 }
 
+@media (max-width:400px) {
+  
 
+   body {
+    background-size: cover;
+    background-position: center bottom;
+  }
+
+
+}
 
 /* Media Queries */
 @media (max-width:450px) {
